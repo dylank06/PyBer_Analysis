@@ -10,3 +10,7 @@ The results show that there is a large difference in the total fare amount in ea
 ![Screen Shot 2020-10-29 at 6 49 45 PM](https://user-images.githubusercontent.com/16258584/97645261-6de30b00-1a1a-11eb-96bb-9a6cf3617ac7.png)
 
 ## Summary 
+Business Recomendations:
+1. Increace advertising in rural cities because they have lowest volume but best margins.
+2. Have summer promotion to help sping down trend.
+3. High demand urban cities could increase price to have higher average fare per driver. 
